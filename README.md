@@ -2,7 +2,7 @@
 
 Here you can view several of my favorite projects that I've completed for various courses.
 
-## [E-Commerce Final Project] (https://github.com/dwongster/data-portfolio/blob/main/e_commerce_final_project_accepted_cleaned.ipynb)
+[E-Commerce Final Project] (https://github.com/dwongster/data-portfolio/blob/main/e_commerce_final_project_accepted_cleaned.ipynb)
 Analysis of a report of sales transactions for an e-commerce site.  We were given dataset of about half million transactions that appear to come from a wholesaler of some type.  I wrote custom functions to help clean the data, including switching variable names from camelCased to snake_cased, analyzing nulls as percentages of whole (as a way to help determine whether to delete). I had to account for outliers and duplicates before analyzing the range of products that were sold to see what items sold the best, what type of customers were most profitable, and any other type of insights.
 
 ## Churn analysis project
