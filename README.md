@@ -10,6 +10,10 @@ Analysis of a report of sales transactions for an e-commerce site.  We were give
 
 Analyze the factors that impact churn most and draw basic conclusions and develop recommendations on how to improve customer service.
 
+### [Event based funnel analysis](https://github.com/dwongster/data-portfolio/blob/main/event_based_funnel_analysis_accepted_cleaned.ipynb)
+
+Analysis of a font change on website to see if sales changed significantly.  We compared groups and their event based funnels to determine whether a font change resulted in positive sales difference.
+
 ### [AB Testing analysis project](https://github.com/dwongster/data-portfolio/blob/main/AB_testing_project_accepted_cleaned.ipynb)
 
 Analysis of an AB test in an online store.
