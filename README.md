@@ -2,7 +2,7 @@
 
 Here you can view several of my favorite projects that I've completed for various courses.
 
-## NOTE: Notebooks will be rendered in NBViewer as there has been issues rendering on Github
+## NOTE: Notebooks will be rendered in NBViewer as there have been issues rendering on Github
 
 ### [E-Commerce Final Project](https://nbviewer.jupyter.org/github/dwongster/data-portfolio/blob/main/e_commerce_final_project_accepted_cleaned.ipynb)
 
