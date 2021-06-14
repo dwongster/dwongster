@@ -1,6 +1,10 @@
 # data-portfolio
 
-Here you can view several of my favorite projects that I've completed for various courses.
+Here you can view projects that I've completed.
+
+### Game Review Analysis for Allcorrect Games
+
+Analyzed anonymized game reviews with over 12 million rows, in multiple languages. Purpose was to determine reviews on localization, correlate them with overall reviews, and determine algorithm for selecting most promising games as candidates for client's localization services. Data cleaning tasks included concatenating multiple Excel sheets from two notebooks (including misnamed columns), filtering for localization, detecting language, translating and tokenizing reviews, running sentiment analysis, and corroborate preliminary results with real-world business data before determining game selection algorithm. Notebook not available due to NDA.
 
 ## NOTE: Notebooks will be rendered in NBViewer as there have been issues rendering on Github
 
