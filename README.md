@@ -2,6 +2,14 @@
 
 Here you can view projects that I've completed.
 
+### Sales Analysis for Permits.com
+
+Permits.com provides a one-stop shop for getting building permits and the like for commercial and residential properties. We were tasked with analyzing almost 5 years' worth of sales data to help them determine how best to deploy online ads.  We took into account a number of dimensions, including user type, company, task type (what the permit was for), location, date and value of the actual project.
+
+Deliverables included a multi-page interactive dashboard that provided deep dives into all aspects of the sales that can help them target specific companies, locations, task types, etc. This information can further be correlated with website traffic for even more granular analysis.
+
+A version of the dashboard (using anonymized data) can be see [here](https://www.wongworks.com/portfolio)
+
 ### Game Review Analysis for Allcorrect Games
 
 Analyzed anonymized game reviews with over 12 million rows, in multiple languages. Purpose was to determine reviews on localization, correlate them with overall reviews, and determine algorithm for selecting most promising games as candidates for client's localization services. Data cleaning tasks included concatenating multiple Excel sheets from two notebooks (including misnamed columns), filtering for localization, detecting language, translating and tokenizing reviews, running sentiment analysis, and corroborate preliminary results with real-world business data before determining game selection algorithm. Notebook not available due to NDA.
